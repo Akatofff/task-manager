@@ -4,7 +4,6 @@ import com.example.demo.dto.LoginRequest;
 import com.example.demo.dto.RegisterRequest;
 import com.example.demo.service.UserRegistrationService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.aot.hint.annotation.RegisterReflection;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
